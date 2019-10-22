@@ -10,3 +10,4 @@
 * Ortíz Franco César Alejandro
 * Ruiz Padilla Luis Angel
 * Cárdenas Castañeda José Antonio
+* José Ismael Diaz Cruz
