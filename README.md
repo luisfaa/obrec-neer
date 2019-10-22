@@ -4,6 +4,7 @@
 * Esqueda Ortiz Andrea Guadalupe
 * Garibay Guerra Luis Angel
 * Jaime Padilla José Antonio
+* Lapizco Pérez Daniel
 * Mata Cortes Antonio de Jesus
 * Musich Flores Branco
 * Ortiz Porras Juan Pablo
