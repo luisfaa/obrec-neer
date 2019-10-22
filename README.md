@@ -1,9 +1,10 @@
 # Reconocimiento de Objetos NEER
 ### Miembros del equipo
-* Andrea Guadalupe Esqueda Ortiz
-* Avelino Chávez Hurtado
-* José Antonio Jaime Padilla
-* César Alejandro Ortíz Franco
-* Juan Pablo Ortiz Porras
-* Luis Angel Garibay Guerra
-* Luis Angel Ruiz Padilla
+* Chávez Hurtado Avelino
+* Esqueda Ortiz Andrea Guadalupe
+* Garibay Guerra Luis Angel
+* Jaime Padilla José Antonio
+* Mata Cortes Antonio de Jesus
+* Ortiz Porras Juan Pablo
+* Ortíz Franco César Alejandro
+* Ruiz Padilla Luis Angel
